@@ -1,4 +1,4 @@
-# Natan Silva
+# Natan Oliveira da Silva
 
 **`Desenvolvedor Front-end`**
 
@@ -12,7 +12,14 @@ Em julho de 2025, obtive a certificação AWS Certified Cloud Practitioner, uma 
 
 ---
 
-### 🤖 Linguagens e Tecnologias
+### Informações Importantes
+
+- [LinkedIn](https://br.linkedin.com/in/natan-o-da-silva)
+- E-mail: natan_o_da_silva@outlook.com
+- Whatsapp: (71) 99653-0750
+- [Currículo](https://drive.google.com/file/d/1FCwC9Hu5wYiFrL_qWde4zGk1m1dbW4g6/view)
+
+### Linguagens e Tecnologias
 
 <img 
     align="left" 
@@ -130,7 +137,7 @@ Em julho de 2025, obtive a certificação AWS Certified Cloud Practitioner, uma 
 <br/>
 <br/>
 
-### 📊 Estatísticas
+### Estatísticas
 
 <p>
   <img 
