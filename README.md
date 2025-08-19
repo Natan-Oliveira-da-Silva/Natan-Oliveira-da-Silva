@@ -2,38 +2,13 @@
 
 **`Desenvolvedor Front-end`**
 
-Me chamo Larissa Vitória Kich, tenho 20 anos e sou natural do Rio Grande do Sul. Concluí o ensino médio no IFRS, com o curso técnico em informática. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na PUCRS. Sou apaixonada por tecnologia e compartilho meu conhecimento através do meu canal no YouTube "[Larissa Kich](https://www.youtube.com/@larissakich)", onde ensino a criar projetos web, e também através do Instagram, com o perfil chamado "[Dev em Dev](https://www.instagram.com/dev_em_dev/)".
+Sou um desenvolvedor de sistemas front-end graduado em Análise e Desenvolvimento de Sistemas pela UNIFACS. Possuo 5 meses de experiência de estágio na área de desenvolvimento mobile e AWS. Estou familiarizado com o ecossistema JavaScript, utilizando React.js, React Native, Node.js, Express.js, TypeScript, SQL e AWS.
 
-<p align="left">
-    <a href="https://www.youtube.com/@larissakich?sub_confirmation=1">
-        <img 
-            alt="youtube subscribers" 
-            title="Inscreva-se no meu canal" 
-            src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UCo-gJ8RnTn5akHqHvO55DVA?color=%23E05D44&label=Inscreva-se&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"
-        />
-    </a>
-    <a href="https://www.youtube.com/@larissakich">
-        <img 
-            alt="youtube views" 
-            title="Vizualizações no YouTube" 
-            src="https://custom-icon-badges.demolab.com/youtube/channel/views/UCo-gJ8RnTn5akHqHvO55DVA?color=%23E1AD0E&logo=eye&logoColor=white&style=for-the-badge&labelColor=C79600"
-        />
-    </a> 
-    <a href="https://github.com/Larissakich?tab=repositories&sort=stargazers">
-        <img 
-            alt="Total de estrelas" 
-            title="Total de estrelas GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/stars/Larissakich?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
-        />
-    </a>
-    <a href="https://github.com/Larissakich?tab=followers">
-        <img 
-            alt="Seguidores" 
-            title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/Larissakich?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
-        />
-    </a>
-</p>
+Na área de front-end, desenvolvo páginas web com React, JavaScript, CSS e HTML e tenho experiência em desenvolvimento mobile com React Native. Na área de back-end, tenho conhecimento em desenvolvimento de APIs RESTful com Node.js e Express.js e também em bancos de dados relacionais como SQLite e PostgreSQL.
+
+Na universidade e no estágio, participei de projetos que me permitiram explorar a integração entre front-end e back-end, o que me ensinou a usar o protocolo HTTP, a arquitetura REST e o formato JSON. Nesses projetos, usei Git e GitHub para versionamento de código e colaboração em equipe. Esses trabalhos são apresentados detalhadamente na seção Projetos deste perfil.
+
+Em julho de 2025, obtive a certificação AWS Certified Cloud Practitioner, uma certificação de nível introdutório da AWS. Essa certificação comprova o conhecimento do funcionamento geral da nuvem e da AWS, dos serviços principais da AWS (EC2, S3, RDS, etc.), de segurança e conformidade na nuvem, dos modelos de precificação e suporte da AWS e dos conceitos de arquitetura em nuvem. [Veja a certificação](https://www.credly.com/badges/f26ac2b0-62de-4723-9cda-d29846433ba0/public_url) e [verifique a sua autenticidade](https://cp.certmetrics.com/amazon/en/public/verify/credential/3edb357bee0e47c292c1325197b04e77])
 
 ---
 
