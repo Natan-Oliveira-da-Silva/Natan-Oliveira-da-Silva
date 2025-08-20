@@ -8,7 +8,7 @@ Na área de front-end, desenvolvo páginas web com React, JavaScript, CSS e HTML
 
 Na universidade e no estágio, participei de projetos que me permitiram explorar a integração entre front-end e back-end, o que me ensinou a usar o protocolo HTTP, a arquitetura REST e o formato JSON. Nesses projetos, usei Git e GitHub para versionamento de código e colaboração em equipe. Esses trabalhos são apresentados detalhadamente na seção Projetos deste perfil.
 
-Em julho de 2025, obtive a certificação AWS Certified Cloud Practitioner, uma certificação de nível introdutório da AWS. Essa certificação comprova o conhecimento do funcionamento geral da nuvem e da AWS, dos serviços principais da AWS (EC2, S3, RDS, etc.), de segurança e conformidade na nuvem, dos modelos de precificação e suporte da AWS e dos conceitos de arquitetura em nuvem. [Veja a certificação](https://www.credly.com/badges/f26ac2b0-62de-4723-9cda-d29846433ba0/public_url) e [verifique a sua autenticidade](https://cp.certmetrics.com/amazon/en/public/verify/credential/3edb357bee0e47c292c1325197b04e77])
+Em julho de 2025, obtive a certificação AWS Certified Cloud Practitioner, uma certificação de nível introdutório da AWS. Essa certificação comprova o conhecimento do funcionamento geral da nuvem e da AWS, dos serviços principais da AWS (EC2, S3, RDS, etc.), de segurança e conformidade na nuvem, dos modelos de precificação e suporte da AWS e dos conceitos de arquitetura em nuvem. [Veja a certificação](https://www.credly.com/badges/f26ac2b0-62de-4723-9cda-d29846433ba0/public_url) e [verifique a sua autenticidade].(https://cp.certmetrics.com/amazon/en/public/verify/credential/3edb357bee0e47c292c1325197b04e77])
 
 ---
 
