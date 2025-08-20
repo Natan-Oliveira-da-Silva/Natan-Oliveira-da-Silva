@@ -101,15 +101,6 @@ Em julho de 2025, obtive a certificação AWS Certified Cloud Practitioner, uma 
     style="padding-right: 10px;" 
     src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" 
 />
-
-<img 
-    align="left" 
-    alt="AWS" 
-    title="AWS"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazon-web-services/amazon-web-services-original.svg" 
-/>
 <img 
     align="left" 
     alt="Figma" 
@@ -117,6 +108,14 @@ Em julho de 2025, obtive a certificação AWS Certified Cloud Practitioner, uma 
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="SQLite" 
+    title="SQLite"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original.svg" 
 />
 
 <br/>
