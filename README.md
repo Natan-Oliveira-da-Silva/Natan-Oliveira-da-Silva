@@ -1,8 +1,8 @@
 # Natan Oliveira da Silva
 
-**`Desenvolvedor Front-end`**
+**`Desenvolvedor Full Stack`**
 
-Sou um desenvolvedor de sistemas front-end graduado em Análise e Desenvolvimento de Sistemas pela UNIFACS. Possuo 5 meses de experiência de estágio na área de desenvolvimento mobile e AWS. Estou familiarizado com o ecossistema JavaScript, utilizando React.js, React Native, Node.js, Express.js, TypeScript, SQL, MongoDB e AWS.
+Sou um desenvolvedor de sistemas full stack graduado em Análise e Desenvolvimento de Sistemas pela UNIFACS. Possuo 5 meses de experiência de estágio na área de desenvolvimento mobile e AWS. Estou familiarizado com o ecossistema JavaScript, utilizando React.js, React Native, Node.js, Express.js, TypeScript, SQL, MongoDB e AWS.
 
 Na área de front-end, desenvolvo páginas web com React, JavaScript, CSS e HTML e tenho experiência em desenvolvimento mobile com React Native. Na área de back-end, tenho conhecimento em desenvolvimento de APIs RESTful com Node.js e Express.js e também em MongoDB e em bancos de dados relacionais como SQLite e PostgreSQL.
 
