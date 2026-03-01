@@ -23,6 +23,14 @@ Em julho de 2025, obtive a certificação AWS Certified Cloud Practitioner, uma 
 
 <img 
     align="left" 
+    alt="Vue"
+    title="Vue" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original.svg" 
+/>
+<img 
+    align="left" 
     alt="React"
     title="React" 
     width="30px" 
@@ -117,6 +125,14 @@ Em julho de 2025, obtive a certificação AWS Certified Cloud Practitioner, uma 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg"
 />
+<img 
+    align="left" 
+    alt="Google Cloud Platform" 
+    title="Google Cloud Platform"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecloud/googlecloud-original.svg"
+/>       
 <img 
     align="left" 
     alt="Git" 
