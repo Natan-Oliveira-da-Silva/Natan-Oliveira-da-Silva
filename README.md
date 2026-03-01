@@ -2,7 +2,7 @@
 
 **`Desenvolvedor Full Stack`**
 
-Sou um desenvolvedor de sistemas full stack graduado em Análise e Desenvolvimento de Sistemas pela UNIFACS. Atualmente, sou um desenvolvedor full stack na equipe desenvolvimento da Zero Hour Health. Estou familiarizado com o ecossistema JavaScript, utilizando Vue.js, React.js, React Native, Node.js, Nest.js, Express.js, Jest, TypeScript, SQL, MongoDB, AWS e Google Cloud Platform.
+Sou um desenvolvedor de sistemas full stack graduado em Análise e Desenvolvimento de Sistemas pela UNIFACS. Atualmente, sou um desenvolvedor full stack na equipe de desenvolvimento da Zero Hour Health. Estou familiarizado com o ecossistema JavaScript, utilizando Vue.js, React.js, React Native, Node.js, Nest.js, Express.js, Jest, TypeScript, SQL, MongoDB, AWS e Google Cloud Platform.
 
 Na área de front-end, desenvolvo páginas web com Vue, React, JavaScript, CSS e HTML e tenho experiência em desenvolvimento mobile com React Native. Na área de back-end, tenho conhecimento em desenvolvimento de APIs RESTful com Node.js, Nest.js e Express.js e também em MongoDB e em bancos de dados relacionais como SQLite e PostgreSQL. Além disso, também sei documentar com o Swagger uma API desenvolvida com Nest.js e implementar testes unitários e testes end-to-end com Jest.
 
