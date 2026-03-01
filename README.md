@@ -2,9 +2,9 @@
 
 **`Desenvolvedor Full Stack`**
 
-Sou um desenvolvedor de sistemas full stack graduado em Análise e Desenvolvimento de Sistemas pela UNIFACS. Possuo 5 meses de experiência de estágio na área de desenvolvimento mobile e AWS. Estou familiarizado com o ecossistema JavaScript, utilizando React.js, React Native, Node.js, Express.js, TypeScript, SQL, MongoDB e AWS.
+Sou um desenvolvedor de sistemas full stack graduado em Análise e Desenvolvimento de Sistemas pela UNIFACS. Atualmente, sou um desenvolvedor full stack na equipe desenvolvimento da Zero Hour Health. Estou familiarizado com o ecossistema JavaScript, utilizando Vue.js, React.js, React Native, Node.js, Nest.js, Express.js, Jest, TypeScript, SQL, MongoDB, AWS e Google Cloud Platform.
 
-Na área de front-end, desenvolvo páginas web com React, JavaScript, CSS e HTML e tenho experiência em desenvolvimento mobile com React Native. Na área de back-end, tenho conhecimento em desenvolvimento de APIs RESTful com Node.js e Express.js e também em MongoDB e em bancos de dados relacionais como SQLite e PostgreSQL.
+Na área de front-end, desenvolvo páginas web com Vue, React, JavaScript, CSS e HTML e tenho experiência em desenvolvimento mobile com React Native. Na área de back-end, tenho conhecimento em desenvolvimento de APIs RESTful com Node.js, Nest.js e Express.js e também em MongoDB e em bancos de dados relacionais como SQLite e PostgreSQL. Além disso, também sei documentar com o Swagger uma API desenvolvida com Nest.js e implementar testes unitários e testes end-to-end com Jest.
 
 Na universidade e no estágio, participei de projetos que me permitiram explorar a integração entre front-end e back-end, o que me ensinou a usar o protocolo HTTP, a arquitetura REST e o formato JSON. Nesses projetos, usei Git e GitHub para versionamento de código e colaboração em equipe. Esses trabalhos são apresentados detalhadamente na seção Projetos deste perfil.
 
