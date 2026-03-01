@@ -132,7 +132,7 @@ Em julho de 2025, obtive a certificação AWS Certified Cloud Practitioner, uma 
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecloud/googlecloud-original.svg"
-/>       
+/>
 <img 
     align="left" 
     alt="Git" 
